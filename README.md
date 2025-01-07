@@ -17,6 +17,19 @@ Currently the app only has  one type of puzzle game which is sliding puzzle. but
 ## Built with Lens ConnectKit
 Our frontend utilizes the Lens ConnectKit to seamlessly integrate user authentication, social graph interactions, and data retrieval. This ensures a smooth and secure user experience, leveraging the full capabilities of the Lens Network.
 
+## VIDEO DEMO:
+https://drive.google.com/file/d/1EWN5Etaj7HGcdHd75aEakNiOYYFFxliM/view?usp=sharing
+
+## Dapp deployment:
+https://puzzle-social.vercel.app/
+
+## Create Puzzles and share it worldwide via LENS Network
+![image](https://github.com/user-attachments/assets/aff65b43-f376-4bb2-9faa-92302d2f7cb9)
+
+
+## Play different Puzzles created by people 
+![image](https://github.com/user-attachments/assets/670c7000-fac6-402b-b84b-6e822cff6284)
+
 ## How It Works
 
 ### Core Features
