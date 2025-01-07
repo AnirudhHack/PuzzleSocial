@@ -1,4 +1,4 @@
-# Lens Network Hardhat Boilerplate
+
 
 This repository contains a boilerplate for developing smart contracts on the Lens Network using [Hardhat](https://hardhat.org/).
 
