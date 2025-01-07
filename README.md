@@ -28,7 +28,9 @@ https://puzzle-social.vercel.app/
 
 
 ## Play different Puzzles created by people 
-![image](https://github.com/user-attachments/assets/670c7000-fac6-402b-b84b-6e822cff6284)
+<img src="https://github.com/user-attachments/assets/e9399c9b-ae72-4192-a036-a24fd4d93b0f" width="500" />
+
+
 
 ## How It Works
 
