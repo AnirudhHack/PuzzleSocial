@@ -1,4 +1,5 @@
 # Puzzle Social
+![2025-01-07 19-31-27](https://github.com/user-attachments/assets/f86de795-50bb-41cf-b7ea-86db3e2a9e7d)
 
 ## Introduction
 
